@@ -23,3 +23,5 @@ After deploy you will have an access to CRUD APIs, for example create user - POS
 For using CLI commands from HerdWatchTestCli
 you just need open terminal in folder with HerdWatchTestCli application on your PC (not Docker machine) and write commands.
 For example - "php bin/console app:creat-user"
+
+P.S. chnage path mappings (left side of volume) to your folder tree destination in docker-compose.yml
